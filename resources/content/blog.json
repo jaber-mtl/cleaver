@@ -16,6 +16,10 @@
                 {
                     "type": "text",
                     "text": "You have two options when it comes to content in Cleaver, <strong>JSON</strong> or <strong>Markdown</strong>. Both have their pros and cons for each project, but for more data-driven pages JSON should be a better fit, whereas Markdown might be better for content-heavy sections of your site. <strong>Note: Regardless of the format you choose, a path and view variable must be set in each content item to be rendered successfully.</strong>"
+                },
+                {
+                    "type": "text",
+                    "text": "Here's an example of a <strong>JSON</strong> content file for Cleaver:"
                 }
             ]
         }
